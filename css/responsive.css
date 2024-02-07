@@ -1,0 +1,29 @@
+@media (max-width: 425px) {
+  main,
+  footer,
+  .main-input,
+  .main-logo {
+    width: 100%;
+  }
+  .main-logo img {
+    width: 200px;
+  }
+  .main-input-container {
+    width: 350px;
+    margin: auto;
+  }
+  .search-icon {
+    margin-left: 10px;
+  }
+  .micro-icon {
+    margin-right: 10px;
+  }
+  .footer-link {
+    flex-wrap: wrap;
+    padding: 0px;
+  }
+  .footer-link-left {
+    text-align: center;
+    margin: 10px 0px;
+  }
+}
